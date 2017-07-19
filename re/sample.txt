@@ -1,0 +1,19 @@
+from: author@example.com    # f in lower case
+From: author@example.com    # F in upper case
+ from: author@example.com   # space at beginning of line
+  From: author@example.com  # space at beginning of line
+from  author@example.com    # no ":" after "from"
+frommm xx yyy
+90095-1557
+90025-1234
+91125-1234
+91225-1234
+zip code 90095-1557
+zip code 90095 in Los Angeles
+hello
+hallo
+hxllo
+abcx
+abccx
+abcccx
+<h1>This is a title</h1>
