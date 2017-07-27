@@ -1,0 +1,14 @@
+<stuff>
+    <users>
+        <user x="5">
+        <id>023</id>
+        <name>Marie</name>
+        </user>
+    <user x="8">
+        <id>023</id>
+        <name>Bret</name>
+        </user>
+        </users>
+</stuff>
+
+
